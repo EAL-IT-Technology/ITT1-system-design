@@ -52,4 +52,4 @@ Trouble shooting:
 
 
 ## revisit the warn up exercise
-Do the exercise again, this time using the
+Do the exercise again, this time using the computer?
