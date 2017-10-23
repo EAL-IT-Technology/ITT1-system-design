@@ -34,4 +34,4 @@ Pratical and learning goals for the period is as follows
 
 ## Comments
 * In week 43, we will get started on the course. Bring pen and paper.
-* Read about L3 diagrams [here](https://eal-it-technology.github.io/layer3.html)
+* Read about L3 diagrams [here](https://eal-it-technology.github.io/Network-design/layer3.html)
