@@ -35,4 +35,6 @@ Pratical and learning goals for the period is as follows
 ## Comments
 * In week 43, we will get started on the course. Bring pen and paper.
 * Read about L3 diagrams [here](https://eal-it-technology.github.io/Network-design/layer3.html)
-* Exercises [here](https://github.com/EAL-IT-Technology/ITT1-system-design/blob/master/materials/ww43-L3_exercises.md)
+* Exercises for week 43 are [here](https://github.com/EAL-IT-Technology/ITT1-system-design/blob/master/materials/ww43-L3_exercises.md)
+* Exercises for week 44 are [here](https://github.com/EAL-IT-Technology/ITT1-system-design/blob/master/materials/ww44_L3_from_Pcaps.md)
+* Notes about extracting L3 info from PCAPs using wireshark is found [here](https://eal-it-technology.github.io/itt-guides/guides/Building_L3_from_pcaps.html) 
