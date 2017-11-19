@@ -22,8 +22,7 @@ We have multiple racks in juniper lab.
 
 Given this diagram, create a proper L3 diagram along with both a HLD and a LLD.
 
-
-
+![two-router-network.png](two-router-network.png)
 
 Notes:
 * State any assumptions, like IP address ranges
