@@ -1,5 +1,5 @@
 ---
-Week: 46,47
+Week: 46
 Content: High level design
 Material: [High level design description](https://eal-it-technology.github.io/hld.html)
 Initials: MON
