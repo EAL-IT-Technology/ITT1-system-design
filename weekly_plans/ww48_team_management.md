@@ -35,4 +35,4 @@ Pratical and learning goals for the period is as follows
 
 ## Comments
 * Go [here](https://github.com/EAL-IT-Technology/ITT1-system-design/blob/master/materials/ww48_team_management.md) for the exercises
-* Gitlab can do a lot of stuff - fokus on issues and milestones
+* Gitlab can do a lot of stuff - focus on issues and milestones
