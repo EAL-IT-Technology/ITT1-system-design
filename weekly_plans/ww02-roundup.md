@@ -16,7 +16,8 @@ Evaluating on the source and getting an overview of activities
 * see [weeks 50-51](https://github.com/EAL-IT-Technology/ITT1-system-design/blob/master/weekly_plans/ww50-51-sequence-diagrams.md)
 
 ## Deliverable
-* None
+* We will be going through the diagrams from weeks 50-51 on the whiteboard
+* We will discuss the evaluation
 
 ## Comments
 * Go [here](https://eal-it-technology.github.io/itt-guides/guides/managing_team_work.html) for some words on how to work in teams.
