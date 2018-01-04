@@ -13,7 +13,7 @@ Evaluating on the source and getting an overview of activities
 * Finished evaluating
 
 ### Learning goals
-* None
+* see [weeks 50-51](https://github.com/EAL-IT-Technology/ITT1-system-design/blob/master/weekly_plans/ww50-51-sequence-diagrams.md)
 
 ## Deliverable
 * None
